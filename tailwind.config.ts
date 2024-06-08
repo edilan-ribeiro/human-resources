@@ -15,6 +15,9 @@ const config: Config = {
       width: {
         'desk': '1440px',
       },
+      maxWidth: {
+        'desk': '1440px',
+      },
     },
     
   },
