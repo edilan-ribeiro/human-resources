@@ -18,6 +18,10 @@ const config: Config = {
       maxWidth: {
         'desk': '1440px',
       },
+      gridTemplateColumns: {
+        'desktop': 'repeat(auto-fill, minmax(350px, 1fr))',
+        'mobile': 'repeat(auto-fill, minmax(280px, 1fr))',
+        }
     },
     
   },

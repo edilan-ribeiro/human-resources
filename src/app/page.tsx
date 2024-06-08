@@ -2,10 +2,11 @@ import { Footer } from '@/components/Footer/Footer'
 import { Header } from '@/components/Header/Header'
 import { Hero } from '@/components/Hero/Hero'
 import { About } from '@/components/About/About'
+import { ServicesSection } from '@/components/ServicesSection/ServicesSection'
 
 export default function Home() {
   return (
-    <div className='w-vw flex flex-col justify-center overflow-x-hidden'>
+    <div className='w-vw flex flex-col justify-center overflow-clip	'>
       <Header />
 
       <main>
@@ -17,6 +18,7 @@ export default function Home() {
         />
 
         <About />
+        <ServicesSection/>
       </main>
       {/* <Footer/> */}
     </div>

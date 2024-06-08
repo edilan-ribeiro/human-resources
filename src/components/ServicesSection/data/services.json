@@ -1,0 +1,39 @@
+[
+  {
+    "nome": "Criação de Currículo",
+    "descricao": "Elaboração de currículos profissionais, destacando suas habilidades e experiências de forma atrativa",
+    "link": "criacao-de-curriculo",
+    "img": "criar-cv.png"
+  },
+
+  {
+    "nome": "Análise de Perfil LinkedIn",
+    "descricao": "Análise detalhada focando em otimização de perfil e apresentação profissional online",
+    "link": "analise-linkedin",
+    "img": "linkedin.png"
+  },
+  {
+    "nome": "Mentoria de Carreira",
+    "descricao": "Orientação personalizada para planejamento de carreira e preparação para entrevistas",
+    "link": "mentoria",
+    "img": "mentoria.png"
+  },
+  {
+    "nome": "Análise de Currículo",
+    "descricao": "Avalia detalhadamente todos os pontos para tornar seu currículo mais atraente",
+    "link": "analise-curriculo",
+    "img": "analise-cv.png"
+  },
+  {
+    "nome": "Simulação de Entrevista",
+    "descricao": "Prática de entrevista com feedback personalizado para melhorar seu desempenho e confiança",
+    "link": "simulacao",
+    "img": "simulacao-entrevista.png"
+  },
+  {
+    "nome": "Processo Seletivo",
+    "descricao": "Apoiamos você com a nossa experiência para ajudar a avançar em cada etapa do processo seletivo",
+    "link": "hunter",
+    "img": "processo-seletivo.png"
+  }
+]
