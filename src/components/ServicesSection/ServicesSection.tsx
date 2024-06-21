@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { SectionTitle } from '../SectionTitle/SectionTitle'
-import services from './data/services.json'
+import services from '@/data/ServicesData/services.json'
 import Image from 'next/image'
 
 export const ServicesSection = () => {
