@@ -9,7 +9,7 @@ interface HeroProps {
 
 export const Hero = ({ title, subtitle, image, imageAlt }: HeroProps) => {
   return (
-    <section className='w-full'>
+    <section className='w-full mb-4'>
       <div className='relative flex h-[570px] justify-center text-center'>
         <div className='absolute inset-0 z-0 bg-black/30 shadow-[inset_0_0_49px_31px_rgba(0,0,0,0.50)]'></div>
         <Image
