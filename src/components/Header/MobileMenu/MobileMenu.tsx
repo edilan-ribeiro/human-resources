@@ -46,7 +46,7 @@ export const MobileMenu = () => {
               <ul className='flex flex-col gap-2 text-right text-gray-100'>
                 {menuLinks.map((link) => (
                   <li key={link.name}>
-                    <Link href={`#${link.href}`} className='inline-block w-full px-4 py-3 font-semibold'>
+                    <Link href={`/#${link.href}`} className='inline-block w-full px-4 py-3 font-semibold'>
                       {link.name}
                     </Link>
                   </li>

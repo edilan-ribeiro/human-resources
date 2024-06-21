@@ -5,7 +5,7 @@ import { MobileMenu } from './MobileMenu/MobileMenu'
 
 export const Header = () => {
   return (
-    <header className='flex w-full justify-center'>
+    <header className='flex w-full justify-center lg:sticky lg:top-0 bg-white z-10'>
       <div className='w-[1440px] shrink'>
         <div className='flex w-full items-center justify-between p-3'>
           <div className='px-2'>
