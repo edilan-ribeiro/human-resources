@@ -1,39 +1,45 @@
 [
   {
     "nome": "Criação de Currículo",
-    "descricao": "Elaboração de currículos profissionais, destacando suas habilidades e experiências de forma atrativa",
+    "descricao": "Elaboração de currículos profissionais, destacando suas habilidades e experiências de forma atrativa",    
     "link": "criacao-de-curriculo",
-    "img": "criar-cv.png"
+    "img": "criar-cv.png",
+    "detalhes": "A criação de currículo é um serviço especializado na elaboração de currículos profissionais que destacam suas habilidades e experiências de forma atrativa. Este serviço visa transformar seu histórico de trabalho e educação em um documento visualmente agradável e informativo, capaz de chamar a atenção de potenciais empregadores. Através de técnicas de redação eficazes e design gráfico, o objetivo é apresentar seus pontos fortes de maneira clara e concisa, aumentando assim suas chances de ser convidado para entrevistas."
   },
 
   {
     "nome": "Análise de Perfil LinkedIn",
     "descricao": "Análise detalhada focando em otimização de perfil e apresentação profissional online",
     "link": "analise-linkedin",
-    "img": "linkedin.png"
+    "img": "linkedin.png",
+    "detalhes": "A análise de perfil LinkedIn é um serviço dedicado à otimização de perfis no LinkedIn, focando na apresentação profissional online. Este serviço envolve uma avaliação detalhada do seu perfil atual, identificando áreas de melhoria e sugerindo mudanças estratégicas para maximizar sua visibilidade e atratividade para recrutadores e conexões profissionais. A partir de uma análise cuidadosa, são fornecidas recomendações personalizadas para melhorar a foto do perfil, o resumo, as experiências de trabalho, as habilidades e outras seções relevantes, com o objetivo de posicionar você de forma mais eficaz no mercado de trabalho digital."
   },
   {
     "nome": "Mentoria de Carreira",
     "descricao": "Orientação personalizada para planejamento de carreira e preparação para entrevistas",
     "link": "mentoria",
-    "img": "mentoria.png"
+    "img": "mentoria.png",
+    "detalhes": "A mentoria de carreira é um serviço de orientação personalizada destinado a auxiliar indivíduos no planejamento e desenvolvimento de suas carreiras. Este serviço oferece suporte contínuo e conselhos especializados para ajudar você a navegar pelos desafios da carreira, desde a definição de objetivos profissionais até a preparação para entrevistas. Através de sessões de coaching, workshops e ferramentas de autoavaliação, a mentoria de carreira visa equipá-lo com as habilidades e estratégias necessárias para alcançar o sucesso profissional e a satisfação pessoal."
   },
   {
     "nome": "Análise de Currículo",
     "descricao": "Avalia detalhadamente todos os pontos para tornar seu currículo mais atraente",
     "link": "analise-curriculo",
-    "img": "analise-cv.png"
+    "img": "analise-cv.png",
+    "detalhes": "A análise de currículo é um serviço que oferece uma avaliação detalhada de seu currículo, com o objetivo de torná-lo mais atraente para empregadores. Este serviço envolve a revisão cuidadosa de cada seção do seu currículo, identificando pontos fracos e áreas de melhoria. Com base nesta análise, são fornecidas recomendações específicas para melhorar a estrutura, o conteúdo e a formatação do currículo, garantindo que ele destaque suas qualificações e experiências de forma eficaz. O objetivo final é criar um documento que reflita sua competência profissional e aumente suas chances de ser selecionado para vagas de emprego."
   },
   {
     "nome": "Simulação de Entrevista",
     "descricao": "Prática de entrevista com feedback personalizado para melhorar seu desempenho e confiança",
     "link": "simulacao",
-    "img": "simulacao-entrevista.png"
+    "img": "simulacao-entrevista.png",
+    "detalhes": "A simulação de entrevista é um serviço que proporciona prática de entrevistas com feedback personalizado, visando melhorar seu desempenho e confiança. Este serviço replica um ambiente de entrevista real, permitindo que você experimente diferentes tipos de perguntas e situações. Após a simulação, você receberá um feedback detalhado sobre sua performance, incluindo sugestões para melhorar sua comunicação, gestão do tempo e capacidade de responder a perguntas difíceis. O objetivo é prepará-lo para entrevistas reais, aumentando suas chances de sucesso."
   },
   {
     "nome": "Processo Seletivo",
     "descricao": "Apoiamos você com a nossa experiência para ajudar a avançar em cada etapa do processo seletivo",
     "link": "processo-seletivo",
-    "img": "processo-seletivo.png"
+    "img": "processo-seletivo.png",
+    "detalhes": "O serviço de apoio ao processo seletivo oferece assistência especializada para ajudá-lo a avançar em cada etapa do processo de seleção de uma empresa. Este serviço inclui a preparação para testes psicotécnicos, entrevistas comportamentais, dinâmicas de grupo e outras etapas comuns em processos seletivos. Com base na experiência e conhecimento do mercado, você receberá dicas valiosas, estratégias e simulações para superar cada fase do processo. O objetivo é maximizar suas chances de ser selecionado para a vaga desejada."
   }
 ]
