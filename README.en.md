@@ -54,7 +54,7 @@
 
 This is a website for a Human Resources (HR) company, designed with a focus on efficiency and ease of maintenance. The site structure was developed to ensure a clear separation of responsibilities, which improves code organization and facilitates future updates.
 
-Dynamic website data, such as information about services, staff, and contacts, is stored in a .json file. This storage method allows for a simpler and faster update of the information displayed on the website, without the need to modify the source code. This is particularly useful for HR companies where data can change frequently, such as company updates, or additional services.
+Dynamic website data, such as information about services is stored in a .json file. This storage method allows for a simpler and faster update of the information displayed on the website, without the need to modify the source code. This is particularly useful for HR companies where data can change frequently, such as additional services.
 
 <br>
 
