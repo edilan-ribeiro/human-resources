@@ -7,7 +7,7 @@ export const ServicesList = () => {
       <ul>
         {services.map((service) => (
           <li key={service.nome} className='py-[2px]'>
-            <Link href={`/${service.link}`}>{service.nome}</Link>
+            <Link href={`/servicos/${service.link}`}>{service.nome}</Link>
           </li>
         ))}
       </ul>
