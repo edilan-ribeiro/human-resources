@@ -53,7 +53,7 @@
 
 Este é um site para uma empresa de Recursos Humanos (RH), projetado com foco na eficiência e facilidade de manutenção. A estrutura do site foi desenvolvida para garantir uma separação clara das responsabilidades, o que melhora a organização do código e facilita futuras atualizações.
 
-Os dados dinâmicos do site, como informações sobre serviços, equipe e contatos, são armazenados em um arquivo .json. Esse método de armazenamento permite uma atualização mais simples e rápida das informações exibidas no site, sem a necessidade de modificar o código-fonte. Isso é particularmente útil para empresas de RH, onde os dados podem mudar com frequência, como atualizações na empresa de equipe ou serviços adicionais.
+Os dados dinâmicos do site, como informações sobre serviços são armazenados em um arquivo .json. Esse método de armazenamento permite uma atualização mais simples e rápida das informações exibidas no site, sem a necessidade de modificar o código-fonte. Isso é particularmente útil para empresas de RH, onde os dados podem mudar com frequência, como atualizações na empresa de equipe ou serviços adicionais.
 
 <br>
 
