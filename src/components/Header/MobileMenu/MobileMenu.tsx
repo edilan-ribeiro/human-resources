@@ -34,7 +34,7 @@ export const MobileMenu = () => {
       <AnimatePresence>
         {isOpen && (
           <motion.div
-            className='fixed right-0 top-0 z-10 h-dvh w-3/4 bg-black/50'
+            className='fixed right-0 top-0 z-10 h-dvh w-3/4 bg-black/80'
             initial={{ opacity: 0, x: '50%' }}
             exit={{ opacity: 0, x: '50%' }}
             animate={isOpen ? 'menuOpen' : 'menuClose'}
